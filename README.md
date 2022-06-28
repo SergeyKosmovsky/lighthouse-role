@@ -25,7 +25,6 @@ lighthouse_clh_access_point_regexp - регулярное выражение д�
 lighthouse_clh_access_point - строка для установки db_host
 
 
-
 # Dependencies
 установка ngix встроена в роль
 
