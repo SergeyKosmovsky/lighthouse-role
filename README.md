@@ -24,7 +24,6 @@ lighthouse_clh_access_point_regexp - регулярное выражение д�
 
 lighthouse_clh_access_point - строка для установки db_host
 
-db_host = 'http://{{ clickhouse_host_ip }}:8123/';
 
 
 # Dependencies
