@@ -30,6 +30,9 @@ lighthouse_clh_access_point - строка для установки db_host
 установка ngix встроена в роль
 
 # Example Playbook
+
+```
   hosts: servers
   roles:
     - lighthouse_role
+```
