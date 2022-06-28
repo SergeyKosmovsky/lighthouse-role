@@ -27,7 +27,7 @@ lighthouse_clh_access_point - строка для установки db_host
 
 
 # Dependencies
-ngix встроен в установку
+установка ngix встроена в роль
 
 # Example Playbook
   hosts: servers
