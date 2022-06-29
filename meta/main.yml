@@ -1,5 +1,5 @@
 galaxy_info:
-  role_name: lighthouse-role
+  role_name: lighthouse_role
   namespace: SergeyKosmovsky
   author: Sergey
   description: Role for installation and managing Lighthouse (https://github.com/VKCOM/lighthouse)
@@ -11,7 +11,7 @@ galaxy_info:
   platforms:
     - name: EL
       versions:
-      - 8
+        - all
 
   galaxy_tags:
     - lighthouse
