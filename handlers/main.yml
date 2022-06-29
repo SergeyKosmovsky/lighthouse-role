@@ -1,5 +1,5 @@
-# handlers file for lighthouse_role
 ---
+# handlers file for lighthouse_role
 - name: start-nginx
   become: true
   ansible.builtin.command: "nginx"
