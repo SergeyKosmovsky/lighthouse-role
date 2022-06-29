@@ -1,7 +1,7 @@
 galaxy_info:
-  role_name: lighthouse_role
-  namespace: olezhuravlev
-  author: Oleg Zhuravlev
+  role_name: lighthouse-role
+  namespace: SergeyKosmovsky
+  author: Sergey
   description: Role for installation and managing Lighthouse (https://github.com/VKCOM/lighthouse)
 
   license: MIT
@@ -11,12 +11,10 @@ galaxy_info:
   platforms:
     - name: EL
       versions:
-        - 7
+        - 8
 
   galaxy_tags:
     - lighthouse
-    - clickhouse
     - nginx
-    - logs
 
 dependencies: []
