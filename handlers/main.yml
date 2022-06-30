@@ -6,5 +6,5 @@
   when: not ansible_check_mode
 - name: reload-nginx
   become: true
-  ansible.builtin.command: "nginx -s reload"
+  ansible.builtin.command: "systemctl start nginx"
   when: not ansible_check_mode
