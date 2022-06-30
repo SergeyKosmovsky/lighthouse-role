@@ -1,12 +1,12 @@
 galaxy_info:
   role_name: lighthouse_role
-  namespace: SergeyKosmovsky
+  namespace: sergeykosmovsky
   author: Sergey
   description: Role for installation and managing Lighthouse (https://github.com/VKCOM/lighthouse)
 
   license: MIT
 
-  min_ansible_version: 2.10
+  min_ansible_version: "2.10"
 
   platforms:
     - name: EL
